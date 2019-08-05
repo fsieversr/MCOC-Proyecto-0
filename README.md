@@ -34,7 +34,7 @@ Donde el valor real, será obtenido con el número de Avogrado usado comúnmente
 
 Una vez hecho el cálculo se obtienen los siguientes resultados:
 
-
+https://raw.githubusercontent.com/fsieversr/MCOC-Proyecto-0/master/asset/Tabla.png
 
 
 De estos se puede observar que la mayoría el error mayor es el que con 64 bit, es decir ocupando más decimales (diferencia negativa)
