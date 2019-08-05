@@ -3,7 +3,7 @@
 
 En este proyecto se mostrará en un ejemplo la pérdida de significancia. Este término describe básicamente la inexactitud que se produce cuando el computador trabaja con números muy grandes o muy pequeños, en esos casos solo toma hasta un cierto número de décimales finitos, dependiendo si son 32 o 64 bit. 
 
-##Ejemplo
+## Ejemplo
 
 En este caso, ocuparemos el número de Avogrado, muy conocido en química, para ilustrar la pérdida de significancia. 
 Este número es muy ocupado para calcular la masa de un átomo o molécula. El número de Avogrado se ocupa generalmente como *6,023x10^23*, se puede observar que es un número muy grande y la masa de un átomo es claramente muy pequeña, por lo que es muy útil para ejemplificar la pérdida de significancia. 
