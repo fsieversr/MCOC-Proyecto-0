@@ -11,18 +11,18 @@ Este número es muy ocupado para calcular la masa de un átomo o molécula. El n
 Tomaremos el número de Avogrado descrito anteriormente, el cuál es usado comunmente para los cálculos y el número más exacto *6.022140857x10^23* para trabajarlo con 32 y 64 bit. 
 
 Se ocuparon los siguientes valores de gramos por mol de algunos átomos y moléculas:
-Agua:18\n
-Acido Sulfurico: 98
-Azufre: 32
-Cloruro de Sodio: 58
-Nitrato de Plata:170
-Acido Fosforico: 98 
-Metano: 16 
-Etano:30 
-Alcohol Etilico: 46 
-Cloruro Mercuroso: 235
-Cianuro de Potasio: 65 
-Propano: 44
+Agua:18,
+Acido Sulfurico: 98,
+Azufre: 32,
+Cloruro de Sodio: 58,
+Nitrato de Plata:170,
+Acido Fosforico: 98,
+Metano: 16, 
+Etano:30, 
+Alcohol Etilico: 46, 
+Cloruro Mercuroso: 235,
+Cianuro de Potasio: 65, 
+Propano: 44,
 
 Dividiendo esos valores por el número de Avogrado se obtiene la masa en gramos del elemento.
 Para demostrar la pérdida de significancia se divide por el número que usamos comúnmente, por el de 32 bit y por último el de 64 bit.
