@@ -11,7 +11,7 @@ Este número es muy ocupado para calcular la masa de un átomo o molécula. El n
 Tomaremos el número de Avogrado descrito anteriormente, el cuál es usado comunmente para los cálculos y el número más exacto *6.022140857x10^23* para trabajarlo con 32 y 64 bit. 
 
 Se ocuparon los siguientes valores de gramos por mol de algunos átomos y moléculas:
-Agua:18
+Agua:18\n
 Acido Sulfurico: 98
 Azufre: 32
 Cloruro de Sodio: 58
@@ -34,19 +34,7 @@ Donde el valor real, será obtenido con el número de Avogrado usado comúnmente
 
 Una vez hecho el cálculo se obtienen los siguientes resultados:
 
-Error float 32	      Error float 64	      Diferencia (32bit-64bit)
-0,000142634923801381	0,000142664049280817	-2,91255E-08
-0,000142663595495046	0,000142664049280847	-4,53786E-10
-0,000142660746134251	0,000142664049280932	-3,30315E-09
-0,000142698883733404	0,000142664049280994	3,48345E-08
-0,000142645722231555	0,000142664049280897	-1,8327E-08
-0,000142680982411280	0,000142664049280907	1,69331E-08
-0,000142674518044958	0,000142664049280915	1,04688E-08
-0,000142674518044997	0,000142664049280876	1,04688E-08
-0,000142634923801381	0,000142664049280817	-2,91255E-08
-0,000142651603929602	0,000142664049280873	-1,24454E-08
-0,000142680982411280	0,000142664049280907	1,69331E-08
-0,000142678244562014	0,000142664049280827	1,41953E-08
+
 
 
 De estos se puede observar que la mayoría el error mayor es el que con 64 bit, es decir ocupando más decimales (diferencia negativa)
